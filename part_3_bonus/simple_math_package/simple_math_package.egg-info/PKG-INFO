@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: simple_math_package
+Version: 0.1
+Summary: A simple math package
+Home-page: 
+Author: Aurora Jahan ASPP
+Author-email: aurora.jahan@physics.uu.se
+Dynamic: author
+Dynamic: author-email
+Dynamic: summary

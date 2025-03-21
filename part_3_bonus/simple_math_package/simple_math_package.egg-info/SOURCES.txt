@@ -1,0 +1,6 @@
+setup.py
+simple_math.py
+simple_math_package.egg-info/PKG-INFO
+simple_math_package.egg-info/SOURCES.txt
+simple_math_package.egg-info/dependency_links.txt
+simple_math_package.egg-info/top_level.txt
